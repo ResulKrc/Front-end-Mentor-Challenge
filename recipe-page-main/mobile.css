@@ -1,0 +1,19 @@
+@media(max-width:376px) {
+    .container {
+    background-color: hsl(0, 0%, 100%);
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 0px;
+    margin: 0 0;
+    }
+
+.container .omlette .image img {
+    width: 100vw;
+    height: 25vh;
+    border-radius: 0px;
+    margin: 0 0;
+}
+}

@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: hsl(30, 54%, 90%);
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 50vw;
+    min-height: 80vh;
+    margin: 5vh auto 5vh auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 25px;
+}
+
+.container .omlette .image img {
+    width: 40vw;
+    height: 25vh;
+    border-radius: 15px;
+    
+}
+
+.container .omlette .image img,h1,p {
+    margin-bottom: 1rem;
+    margin: 5vh 5vw ;
+}
+.container .omlette .preparation h3,ul {
+    margin-bottom: 1rem;
+   
+}
+.container .omlette .preparation {
+    background-color: hsl(30, 18%, 87%);
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+     margin: 5vh 5vw ;
+}
+.container .omlette .preparation ul li {
+    margin-bottom: 0.5rem;
+    list-style-position: inside;
+}
+.container .omlette .preparation ul li::marker {
+    color:hsl(332, 51%, 32%);
+}
+/* ingredients */ 
+.container .omlette .ingredients {
+    margin: 5vh 5vw ;
+}
+.container .omlette .ingredients h2 {
+    margin-top: 2rem;
+}
+.container .omlette .ingredients h2,ul {
+    margin-bottom: 1rem;
+    list-style-position: inside;
+}
+.container .omlette .ingredients ul li {
+    margin-bottom: 0.75rem;
+}
+
+.container .omlette .ingredients ul li::marker {
+    color: hsl(14, 45%, 36%);
+}
+
+/* insruction */ 
+
+.container .instruction {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+.container .instruction h2,ol {
+    margin-bottom: 1rem;
+    list-style-position: inside;
+}
+
+.container .instruction ol li {
+    margin-bottom: 1rem;
+}
+.container .instruction ol li::marker {
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
+
+/* nutrition */ 
+
+.container .nutrition {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.container .nutrition h2 {
+    margin-top: 1rem;
+    
+}
+
+.container .nutrition h2,p,table {
+    margin-bottom: 1rem;
+}
+
+.container .nutrition table {
+    width: 40vw;
+    margin-left: 1rem;
+}
+
+.container .nutrition table tr td {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid grey;
+    font-size: 1.5rem;
+    opacity: 0.8;
+    font-weight: 100;
+}
+.container .nutrition table tr td:nth-child(2) {
+    color:hsl(14, 45%, 36%);
+    font-weight: bolder;
+}
+
