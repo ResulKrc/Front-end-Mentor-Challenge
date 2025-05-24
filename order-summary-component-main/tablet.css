@@ -1,0 +1,17 @@
+html {
+    font-size: 14px;
+}
+
+main {
+    width: 70vw;
+    height: 80vh;
+    margin: 10vh auto;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    border-radius: 25px;
+}
+
+main .item-2 .div-1 a {
+    flex-grow: 2;
+    margin-left: 1rem;
+    font-weight: 700;
+}
