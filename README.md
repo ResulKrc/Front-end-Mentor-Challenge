@@ -1,2 +1,3 @@
 
-![Ekran görüntüsü 2025-05-24 154120](https://github.com/user-attachments/assets/ca903fbe-3ec3-49b2-b8db-51b7ed98aa5b)
+![mobile](https://github.com/user-attachments/assets/f1c7d102-8949-4b68-905c-93f1ddb59a6c)
+![dekstop](https://github.com/user-attachments/assets/a86b93d0-ad09-49ce-8b1d-6553732c2555)
