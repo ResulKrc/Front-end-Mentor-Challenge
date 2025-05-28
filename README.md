@@ -1,3 +1,4 @@
 
-![mobile](https://github.com/user-attachments/assets/f1c7d102-8949-4b68-905c-93f1ddb59a6c)
-![dekstop](https://github.com/user-attachments/assets/a86b93d0-ad09-49ce-8b1d-6553732c2555)
+![dekstop](https://github.com/user-attachments/assets/fce5795b-d9f4-4a19-9933-a70b7c51051f)
+
+![mobile](https://github.com/user-attachments/assets/4c3d3339-19de-41e0-b273-19c2a68abc21)
